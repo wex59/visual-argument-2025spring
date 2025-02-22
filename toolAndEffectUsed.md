@@ -1,8 +1,9 @@
 # Tools and Effects Used in each Layer
 
 | Layer  | Tools and Effects | 
+| ------------- | ------------- |
 | Knife1-5 | Used the the foreground select in Gimp to remove the background of the original picture to get only the knife and used crop tool to get the keyboard. Used the move tool to arrange the knife and the keyboard to the desire place, then since the knife is a layer without background I used the the alpha to selection on that layer to get the only knife shape and used merge down layer tool to put the keyboard into the knife shape. Finally use the scale tool and rotate tool to arrage all the knifes. | 
 | Cellphone  | Used the the foreground select in Gimp to remove the background of the original picture to get only the the hand holding the phone. Then use the select tool to select only the screen of the phone then with the desired area selected I used the colorize tool to make the screen red. | 
 | Person falling  | Used the the foreground select in Gimp to remove the background of the original picture to get only the person then I used the alpha to selection tool to only select the person falling and then merged it with a white layer to create a person falling in only white color. Additionally, I used the scale tool and rotate tool to have the image in the desired place.  | 
 | Title  | Used the text tool to write the title of this visual algument, purposely make it in white to make it stand out with in the black background color. | 
-| Hate background  | Used the text tool to write the a bunch of HATE in a slightly dark red color, purposely delete some to leave a space for the title. Finally, used the lens blur effect to the text for the title to stand out more for being a clear text in a bunch of blur text. | 
+| Hate background  | Used the text tool to write the a bunch of HATE in a slightly dark red color, purposely delete some to leave a space for the title. Finally, used the lens blur effect to the text for the title to stand out more for being a clear text in a bunch of blur text. |
