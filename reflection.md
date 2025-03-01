@@ -4,7 +4,26 @@
 Cyber bullying is a growing problem in today’s digital world. While the internet world can feel disconnected from reality, the words we type and the comments we make can have an actual and long-term influence on others. This project is to serve as a call to action and hope to encourage viewers to reflect on their own digital behavior and consider the impact of their words online.
 
 **Process:**  
-During the in-class generative loop writing exercise, cyberbullying was the first thing that came to mind. I immediately thought of an image of knives shaped like a keyboard pointing at someone. At first, I was thinking to have a person using a phone with the keyboard knives aimed at them, but later decided that having knives coming out directly from the cellphone would better convey the message to viewers. After finalizing this idea, I listed the image sources I needed (keyboard, knife, cellphone, person) and collected them from Unsplash. Since I had no prior photo editing experience, I relied on tutorials to learn the basics. I also added a few screenshots of my progress to my final visual argument in [Progress]( https://github.com/wex59/visual-argument-2025spring/tree/main/Progress)
+During the in-class generative loop writing exercise, cyberbullying was the first thing that came to mind. I immediately thought of an image of knives shaped like a keyboard pointing at someone. At first, I was thinking to have a person using a phone with the keyboard knives aimed at them, but later decided that having knives coming out directly from the cellphone would better convey the message to viewers. After finalizing this idea, I listed the image sources I needed (keyboard, knife, cellphone, person) and collected them from Unsplash. Since I had no prior photo editing experience, I relied on tutorials to learn the basics. I also added a few screenshots of my progress to my final visual argument in [Progress]( https://github.com/wex59/visual-argument-2025spring/tree/main/Progress). 
+ I started my visual project with learning how to use foreground select and alpha selection to make the knife keyboard. This is an image experimenting with different keyboard.
+![Image](https://github.com/user-attachments/assets/ee71a627-538c-4cc8-a781-4f870ab419ba)
+
+My Version 1 is just a whole white cellphone with a bunch of whole black keyboard knives, but then I think that the white cellphone is not clear so I changed using a real image of cellphone in Version 2:
+Version1:
+![Image](https://github.com/user-attachments/assets/1ae98756-1f8d-487a-b2a8-0e13b2dc89e0)
+Version 2:
+![Image](https://github.com/user-attachments/assets/2c82c885-2584-4a3b-a331-8c1bfa5a1d9f)
+
+Then with Professor Miller's advice, to left the knifes handle for a more clear view, I have my first draft done.
+Draft:
+![Image](https://github.com/user-attachments/assets/061b13bb-3c33-44e1-b8da-1885857e0b89)
+
+After reading all the feedbacks I got, I started to edit my draft. This are some of the progress screenshots. 
+![Image](https://github.com/user-attachments/assets/c6d034a0-d33b-466d-87d4-c3ae8273fecf)
+![Image](https://github.com/user-attachments/assets/f0fac677-0840-41db-b43a-08a5fd1659f1)
+![Image](https://github.com/user-attachments/assets/ea363183-4b36-4ec9-98cd-90aa7f44428f)
+ 
+Finally, after incorporating the advices from my peer and from Professor Miller, I finished my final version and uploaded everything to my repository. 
 
 **Baseline Criteria:**  
 For the Baseline Criteria, I ensured my work met all requirements. I used arrangement, size, and color to direct viewers' attention, explained my compositional choices in this reflection, and conveyed a clear visual argument with a font that matches the tone. I credited all assets correctly, used at least three layers, applied tools beyond basic selection and text, included meaningful commit messages, and met all deadlines.
