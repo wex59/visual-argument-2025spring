@@ -8,5 +8,5 @@ The visual argument: [VisualArgument.png](https://github.com/wex59/visual-argume
 The visual argument xcf file: [VisualArgument.xcf](https://github.com/wex59/visual-argument-2025spring/blob/main/VisualArgument.xcf)<br/>
 Assets List: [assets.md](https://github.com/wex59/visual-argument-2025spring/blob/main/assets.md)<br/>
 Tools and Effects used: [toolAndEffectUsed.md](https://github.com/wex59/visual-argument-2025spring/blob/main/toolAndEffectUsed.md)<br/>
-Progress: [Progress](https://github.com/wex59/visual-argument-2025spring/tree/main/Progress)
+Progress: [Progress](https://github.com/wex59/visual-argument-2025spring/tree/main/Progress)<br/>
 Reflection: [reflection.md](https://github.com/wex59/visual-argument-2025spring/blob/main/reflection.md)
